@@ -15,26 +15,32 @@
 <main>
     <h1>Transience</h1>
     <div>
-        <p>
-            A group student exhibition at the Große Wasserspeicher in
-            Berlin-Prenzlauer Berg, from 09.06 until 12.06, supported by <a
+        <div class="incipit">
+            <div class="text">
+            <p>
+                In the spirit of education, experiment and process, students from
+                HfK Bremen, HfG Karlsruhe, Bauhaus-Weimar Universität, and joined by
+                NYU Berlin will present a collaborative show around the themes of
+                passing by, ephemeral media, and temporary spaces.
+            </p>
+            <p>
+                Over the course of the weekend, the public will be able to see the
+                result of students discovering and exchanging about each other’s
+                works and practices, creating a momentary synergetic flow in the
+                Wasserspeicher.
+            </p>
+            <p>
+                A group student exhibition at the Große Wasserspeicher in
+                Berlin-Prenzlauer Berg, from 09.06 until 12.06, supported by <a
                 href="http://automatonlab.xyz"
                 target="_blank"
                 rel="noopener noreferrer">Automaton Lab</a
-            >.
-        </p>
-        <p>
-            In the spirit of education, experiment and process, students from
-            HfK Bremen, HfG Karlsruhe, Bauhaus-Weimar Universität, and joined by
-            NYU Berlin will present a collaborative show around the themes of
-            passing by, ephemeral media, and temporary spaces.
-        </p>
-        <p>
-            Over the course of the weekend, the public will be able to see the
-            result of students discovering and exchanging about each other’s
-            works and practices, creating a momentary synergetic flow in the
-            Wasserspeicher.
-        </p>
+                >.
+            </p>
+        </div>
+            <img src="/poster.png" alt="a charcoal drawing representing the große wasserspeicher"/>
+        </div>
+
     </div>
     <div class="floorplan">
         <a href="/Transience_Grundriss.pdf" download>DOWNLOAD FLOORPLAN</a>
@@ -84,6 +90,27 @@
 
     h1{
         font-size: 3em;
+    }
+
+    .incipit {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .text, .incipit img {
+        width: 45%;
+    }
+
+    @media (max-width: 950px){
+        .incipit{
+            flex-direction: column-reverse;
+            gap: 10px
+        }
+
+        .text, .incipit img {
+        width: 100%;
+    }
     }
 
     .floorplan{
