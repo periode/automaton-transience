@@ -21,7 +21,7 @@ const artworks = [
         "number": "04",
         "name": "Nicolas-Fiedrich Hohlt",
         "school": "HfK Bremen",
-        "description": "The more I walk through the forest that borders my parents‘ house, the more I notice its smaller and larger illnesses. He and most of the others are in bad shape. It has been lumbered, replanted, only to be lumbered again. Humans see it as their property. Yet it is home to countless living creatures and is actually a huge organism itself. The poem „Waldeinsamkeit“ (Forest Solitude) by Heirich Heine describes life in the forest with all its creatures and how they disappeared because people began to use it for themselves. The magic creatures disappeared and since then no one has seen them again. I wonder if some of them are still around and if they would show themselves, if they were met with kindness. If there is a chance of that happening, I think it will take a lot of time and patience. It would need a place to wait for them. That‘s the place I want to build. It has to be small. Just big enough to stretch out. With large openings so that everyone can see that someone is waiting for them. Birds should live in it too, the last ones that don‘t hide. The measurements were taken, the material has been ordered. I go back into the forest to understand what we have done to it and all those creatures who         live in it. Maybe he will talk to me and tell me a little bit about his suffering. Perhaps even the spirits come out of hiding",
+        "description": "The more I walk through the forest that borders my parents‘ house, the more I notice its smaller and larger illnesses. He and most of the others are in bad shape. It has been lumbered, replanted, only to be lumbered again. Humans see it as their property. Yet it is home to countless living creatures and is actually a huge organism itself. The poem „Waldeinsamkeit“ (Forest Solitude) by Heirich Heine describes life in the forest with all its creatures and how they disappeared because people began to use it for themselves. The magic creatures disappeared and since then no one has seen them again. I wonder if some of them are still around and if they would show themselves, if they were met with kindness. If there is a chance of that happening, I think it will take a lot of time and patience. It would need a place to wait for them. That‘s the place I want to build. It has to be small. Just big enough to stretch out. With large openings so that everyone can see that someone is waiting for them. Birds should live in it too, the last ones that don‘t hide. The measurements were taken, the material has been ordered. I go back into the forest to understand what we have done to it and all those creatures who live in it. Maybe he will talk to me and tell me a little bit about his suffering. Perhaps even the spirits come out of hiding",
         "title": "Waldeinsamkeit",
         "bio": "My name is Nicolas-Friedrich Hohlt, I am an designer for temporary buildings. I am currently studying temporary architecture, in the Master‘s programme, at the HfK Bremen. Before my studies, I did work as an carpenter and learned how to use my hands. In my projects I work conceptually and holistically. For me, this means that at the beginning there is always theoretical research on the subject in order to be informed and to be able to pass on correct information. Both formally and in terms of content. The choice of material is based on a few essential considerations. How does it smell, how does its texture feel, is it warm or cold and how does it work with other materials and in what proportions? There are also questions about the sustainability and durability of the material. This creates spaces that can be experienced through smell, touch and sight. In the best case, a certain tension arises in the object that makes it interesting to look at, to stay in it and to deal with it .",
         "link": "https://nicolasfriedrichhohlt.myportfolio.com/work"
@@ -120,7 +120,36 @@ const artworks = [
         "number": "08",
         "name": "Elizaveta Boucke",
         "school": "HfK Bremen",
-        "description": "the description is an ascii-art-heart, which can not be displayed here. but there is the link",
+        "description": `            ...  .
+﻿...  .
+                ...
+         ',.    .,,.    ..
+   .;:;'.,:'.  .;:;. ..;::;,.
+   ....',::,.  .:;'..;;'..,;.
+         .;t:' ':,,;:,.
+        .';tu;.;:;:;,'..
+      .,t;:tu:::;'..'',;;,.    .;'
+     .:t:';tu;'',:::turn, off,'',;
+     ,your,,,,;.';mind:,;,'...':be.
+  .':overwhelmed,   ..,;:..,find'
+  ;your, way;'.,to'  .;,...,:g:et:.
+ 'involved;;with:;. .,, ..,this;'
+ :strange, intimacy:,..;and,,:,::.
+.alienation,.....:'.;turn;..,.off;.
+ :thoughts:''.its.;:,:'just;,. .a,.
+ 'feeling,''.  ......,, 'there,is'
+  nothing, to;'',.       '’’think.
+  ;about,,'.   .. .'for,. .;:me;
+  .there,..  ..''.'is:..,..';no:
+    ;thing:. .....  .to' ,.'say'
+     ..,..  …   .:...,,,,,.just,
+      .:meet,...':.,,,,,,,me;
+        '......…./:;:.....'::
+          ,,,,,:in...'’’’’’.
+           .:;;;;;:;;the:,.
+             .:’’’’’dark.
+               .';:;.
+`,
         "title": "Ulysses pact",
         "bio": "I deal with personal perception, experience, emotionality - or simply that glowing hot ball inside you that rolls you to perdition as well as lifts you to heaven. That thing that presents itself just as strongly in your chest after a breakup as it did at its beginning - only this time, somehow more confusing. Aptly expressed as the \"human condition,\" I want to catalog, map, but most of all: explain - or make experiential - the inner world of human being. In this way I find not only the meaning of a work, but also myself. How can I speak before I have experienced? As a vehicle of my ideas - known as my \"medium\" - I rely on audiovisual installations. There is also a constant companion, which miraculously always finds its way into my works, supports me with advice, action and conversation: language. Writing things down releases them from my ephemeral flow of thoughts, tightens them, materializes them, and thereby lets me know what I was actually thinking.",
         "link": "https://fine-f.art/"

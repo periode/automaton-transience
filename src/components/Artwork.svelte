@@ -8,7 +8,7 @@
         <div class="title">{artwork.title}</div>
     </div>
     <div class="name">{artwork.name}</div>
-    <div class="description">
+    <div class={artwork.number === "08" ? `ascii description` :`description`}>
         {artwork.description}
     </div>
     <div class="footer">
@@ -17,6 +17,13 @@
 </div>
 
 <style>
+    .ascii{
+        font-family: mono;
+    }
+    .description{
+        white-space: pre-wrap;
+
+    }
     .artwork {
         width: 45%;
     }
