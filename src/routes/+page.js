@@ -12,7 +12,7 @@ const artworks = [
         "number": "13",
         "name": "Yuliana Mosheeva",
         "school": "HfG Karslruhe",
-        "description": "The videoinstallation explores a space between digital and actual water through deep diving into a play between a city dweller and urban waters. The viewer is invited to complete the work by imagining the leg's cells absorbing the liquid while releasing particles of itself into the circuit of the city.",
+        "description": "Wattery matter conducts a digitized memory of a city dweller playing with urban waters. The viewer is invited to complete the work by imagining the leg's cells absorbing the liquid while releasing particles of itself into the circuit of the city.",
         "title": "pure conductivity",
         "bio": "I work on intersections beteween mediaphilosophy and artistic practice.",
         "link": "https://www.instagram.com/batmosheajefa/"
